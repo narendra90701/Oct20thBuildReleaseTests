@@ -8,7 +8,7 @@ public class HelloWorld {
 				z=x+y;
 		System.out.println(z);
 		
-System.out.println("Hello World");
+System.out.println("Welcome to the world");
 	}
 
 }
